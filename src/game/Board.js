@@ -100,7 +100,7 @@ const Board = () => {
                       Moves:{moves}
                 </div> 
             )} 
-    
+     
             <button className="button" onClick={newGame}> 
                 New Game 
             </button> 
@@ -108,8 +108,8 @@ const Board = () => {
     ); 
 }
 
-
 export default Board;
 
+git commit 
 
-
+// add matched message?
