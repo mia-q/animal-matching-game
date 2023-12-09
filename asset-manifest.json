@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/animal-matching-game/static/css/main.21ca486d.css",
+    "main.js": "/animal-matching-game/static/js/main.1355c3be.js",
+    "static/media/pup.png": "/animal-matching-game/static/media/pup.6af5e48a7bef5dc23b9a.png",
+    "static/media/bunny.png": "/animal-matching-game/static/media/bunny.ec75aa7dabd346469cea.png",
+    "static/media/monkey.png": "/animal-matching-game/static/media/monkey.88e42b5e4b50bd83e513.png",
+    "static/media/hamster.png": "/animal-matching-game/static/media/hamster.95c07d69b4b9013271df.png",
+    "static/media/frog.png": "/animal-matching-game/static/media/frog.3f331f5147543d9c9b6d.png",
+    "static/media/tiger.png": "/animal-matching-game/static/media/tiger.a18ccd6e885382a39855.png",
+    "static/media/chick.png": "/animal-matching-game/static/media/chick.5928ef182294af1f8bc3.png",
+    "static/media/kitten.png": "/animal-matching-game/static/media/kitten.5d2d46bde977b9e6afac.png",
+    "static/media/fish.png": "/animal-matching-game/static/media/fish.55ac2c29283a32315288.png",
+    "static/media/fox.png": "/animal-matching-game/static/media/fox.7df8150971cf5f241d56.png",
+    "static/media/turtle.png": "/animal-matching-game/static/media/turtle.afe727d3ab4bf47afaad.png",
+    "static/media/raccoon.png": "/animal-matching-game/static/media/raccoon.d6c180bb2097076906ca.png",
+    "index.html": "/animal-matching-game/index.html",
+    "main.21ca486d.css.map": "/animal-matching-game/static/css/main.21ca486d.css.map",
+    "main.1355c3be.js.map": "/animal-matching-game/static/js/main.1355c3be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ca486d.css",
+    "static/js/main.1355c3be.js"
+  ]
+}
