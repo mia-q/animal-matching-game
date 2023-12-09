@@ -110,6 +110,4 @@ const Board = () => {
 
 export default Board;
 
-git commit 
-
 // add matched message?
